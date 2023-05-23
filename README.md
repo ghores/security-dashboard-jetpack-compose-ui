@@ -1,7 +1,7 @@
-# security-dashboard-ui-jetpack-compose
+# security dashboard jetpack compose Ui
 
 
-## Task Manager App UI Concept 
+## Security Dashboard App UI Concept 
 This UI design concept was created by [Halo Lab 🇺🇦](https://dribbble.com/shots/19098161-Mobile-App-iOS-Android-UI)
 
 <img src="images/picture.png" width="250"/>
